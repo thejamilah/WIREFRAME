@@ -1,5 +1,7 @@
 /* HEADER */
 
+/* Controls font for entire page */
+
 body {
     font-family: Helvetica;
 }
@@ -86,6 +88,8 @@ button {
 button:hover {
     background: rgb(97, 3, 22);
 }
+
+/* clear: both; command that overrides float commands */
 
 footer {
     clear: both;
